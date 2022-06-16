@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Additions to GitHub generated .gitignore (Python template) for SageMath Jupyter Notebooks
+.sage/temp
