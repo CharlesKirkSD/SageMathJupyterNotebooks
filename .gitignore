@@ -129,4 +129,6 @@ dmypy.json
 .pyre/
 
 # Additions to GitHub generated .gitignore (Python template) for SageMath Jupyter Notebooks
-.sage/temp
+.ccache
+.local
+.sage
